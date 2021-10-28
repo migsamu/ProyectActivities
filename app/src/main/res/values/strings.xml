@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectActivities</string>
+    <string name="etPantallaPrincipal">Pantalla principal</string>
+    <string name="etPantallaSecundaria">Pantalla secundaria</string>
+    <string name="btnCambiar">Cambiar actividad</string>
+    <string name="btnVolver">Volver</string>
+</resources>
